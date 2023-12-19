@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-
+#PNND Hello
 class absNhanVien(ABC):
     @abstractmethod
     def tinhLuongHT(self):
